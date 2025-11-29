@@ -120,9 +120,6 @@ classes.py: Protótipo funcional das classes Cliente e Endereco, demonstrando a 
 
 SegSistem.pdf: Documentação técnica completa da arquitetura.
 
-⚙️ Como Executar (Protótipo)
-Para testar a lógica base de clientes e endereços:
-
 📅 Roadmap de Desenvolvimento
 [x] Planejamento: Arquitetura e Regras de Negócio definidas.
 
